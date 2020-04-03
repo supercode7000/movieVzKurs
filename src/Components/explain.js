@@ -1,0 +1,1 @@
+const arr = [{ item: "Berlin" }, { item: "Paris" }, { item: "Amsterdam" }]
