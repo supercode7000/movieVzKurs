@@ -1,7 +1,8 @@
 import React from 'react';
 
 import './App.css';
-import MoviesList from './Components/MoviesList';
+// import MoviesList from './Components/MoviesList';
+import Bank from './Components/Bank';
 //import DayAndNight from './Components/DayAndNight';
 // import Counter from './Components/Counter';
 // import TodoList from './Components/TodoList';
@@ -12,7 +13,8 @@ function App() {
       {/* <TodoList /> */}
       {/* <DayAndNight /> */}
       {/* <Counter /> */}
-      <MoviesList />
+      {/* <MoviesList /> */}
+      <Bank />
     </div>
   );
 }
